@@ -62,9 +62,9 @@ body
     left: 0;
     width: 100%;
     height: 8px;
-    background: #3fefef;
+    background: #48BB78;
     border-radius: 8px;
-    filter: drop-shadow(0 0 20px #3fefef) drop-shadow(0 0 60px #3fefef);
+    filter: drop-shadow(0 0 20px #48BB78) drop-shadow(0 0 60px #48BB78);
     animation: animate_line 4s ease-in-out infinite;
 
 }
@@ -81,12 +81,13 @@ body
 }
 .scan h3
 {
+    align-content: center;
     text-transform: uppercase;
     font-size: 2em;
     letter-spacing: 2px;
     margin-top: 20px;
-    color: #3fefef;  filter: drop-shadow(0 0 20px 
-    #3fefef) drop-shadow(0 0 60px #3fefef);
+    color: #48BB78;  filter: drop-shadow(0 0 20px 
+    #48BB78) drop-shadow(0 0 60px #48BB78);
     animation: animate_text 0.5s steps(1) infinite;
    
 }
